@@ -1,6 +1,6 @@
 # This is a KiCAD Library.
 
-### Forked in a @adamgreig library.
+#### Forked in a @adamgreig.
 
 This repository contains my collection of KiCAD symbols.
 
@@ -16,6 +16,14 @@ licensed under the MIT licence. See `CONTRIBUITING`.
 
 To use, add relevant `.lib` files to your project libraries. There is one 
 `.lib` file per symbol.
+
+## PCB Footprints
+
+To use, add Galeguinho.pretty to your project libraries, with nickname Galeguinho recommended for compatibility with the schematic symbols.
+
+The major ones have 3D files.
+
+If you wanna adit some 3D files, the ones are in /CAD. Hint: use the FreeCAD.
 
 ## Licence
 
