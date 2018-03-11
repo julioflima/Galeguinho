@@ -1,0 +1,148 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#
+# BUTAO
+#
+DEF BUTAO TB 0 40 N N 1 F N
+F0 "TB" -150 200 50 H V L CNN
+F1 "BUTAO" 0 -150 50 H V C CNN
+F2 "Galeguinho:tactile_button_red" 0 300 50 H I C CNN
+F3 "" 0 200 50 H I C CNN
+$FPLIST
+ tactile_button
+$ENDFPLIST
+DRAW
+C -80 0 20 0 1 0 N
+C 80 0 20 0 1 0 N
+S -150 150 150 -100 0 1 0 f
+P 2 0 1 0 0 50 0 120 N
+P 2 0 1 0 100 50 -100 50 N
+X 1 1 -200 0 100 R 50 50 0 1 P
+X 2 2 200 0 100 L 50 50 0 1 P
+ENDDRAW
+ENDDEF
+#
+# tactile_button
+#
+DEF tactile_button TB 0 40 N N 1 F N
+F0 "TB" -150 200 50 H V L CNN
+F1 "tactile_button" 0 -150 50 H V C CNN
+F2 "tactile_button" 0 300 50 H I C CNN
+F3 "" 0 200 50 H I C CNN
+DRAW
+C -80 0 20 0 1 0 N
+C 80 0 20 0 1 0 N
+S -150 150 150 -100 0 1 0 f
+P 2 0 1 0 0 50 0 120 N
+P 2 0 1 0 100 50 -100 50 N
+X 1 1 -200 0 100 R 50 50 0 1 P
+X 2 2 200 0 100 L 50 50 0 1 P
+ENDDRAW
+ENDDEF
+#
+# tactile_button_black
+#
+DEF tactile_button_black TB 0 40 N N 1 F N
+F0 "TB" -150 200 50 H V L CNN
+F1 "tactile_button_black" 0 -150 50 H V C CNN
+F2 "Galeguinho:tactile_button_black" 0 300 50 H I C CNN
+F3 "" 0 200 50 H I C CNN
+$FPLIST
+ tactile_button
+$ENDFPLIST
+DRAW
+C -80 0 20 0 1 0 N
+C 80 0 20 0 1 0 N
+S -150 150 150 -100 0 1 0 f
+P 2 0 1 0 0 50 0 120 N
+P 2 0 1 0 100 50 -100 50 N
+X 1 1 -200 0 100 R 50 50 0 1 P
+X 2 2 200 0 100 L 50 50 0 1 P
+ENDDRAW
+ENDDEF
+#
+# tactile_button_blue
+#
+DEF tactile_button_blue TB 0 40 N N 1 F N
+F0 "TB" -150 200 50 H V L CNN
+F1 "tactile_button_blue" 0 -150 50 H V C CNN
+F2 "Galeguinho:tactile_button_blue" 0 300 50 H I C CNN
+F3 "" 0 200 50 H I C CNN
+$FPLIST
+ tactile_button
+$ENDFPLIST
+DRAW
+C -80 0 20 0 1 0 N
+C 80 0 20 0 1 0 N
+S -150 150 150 -100 0 1 0 f
+P 2 0 1 0 0 50 0 120 N
+P 2 0 1 0 100 50 -100 50 N
+X 1 1 -200 0 100 R 50 50 0 1 P
+X 2 2 200 0 100 L 50 50 0 1 P
+ENDDRAW
+ENDDEF
+#
+# tactile_button_gray
+#
+DEF tactile_button_gray TB 0 40 N N 1 F N
+F0 "TB" -150 200 50 H V L CNN
+F1 "tactile_button_gray" 0 -150 50 H V C CNN
+F2 "Galeguinho:tactile_button_gray" 0 300 50 H I C CNN
+F3 "" 0 200 50 H I C CNN
+$FPLIST
+ tactile_button
+$ENDFPLIST
+DRAW
+C -80 0 20 0 1 0 N
+C 80 0 20 0 1 0 N
+S -150 150 150 -100 0 1 0 f
+P 2 0 1 0 0 50 0 120 N
+P 2 0 1 0 100 50 -100 50 N
+X 1 1 -200 0 100 R 50 50 0 1 P
+X 2 2 200 0 100 L 50 50 0 1 P
+ENDDRAW
+ENDDEF
+#
+# tactile_button_green
+#
+DEF tactile_button_green TB 0 40 N N 1 F N
+F0 "TB" -150 200 50 H V L CNN
+F1 "tactile_button_green" 0 -150 50 H V C CNN
+F2 "Galeguinho:tactile_button_green" 0 300 50 H I C CNN
+F3 "" 0 200 50 H I C CNN
+$FPLIST
+ tactile_button
+$ENDFPLIST
+DRAW
+C -80 0 20 0 1 0 N
+C 80 0 20 0 1 0 N
+S -150 150 150 -100 0 1 0 f
+P 2 0 1 0 0 50 0 120 N
+P 2 0 1 0 100 50 -100 50 N
+X 1 1 -200 0 100 R 50 50 0 1 P
+X 2 2 200 0 100 L 50 50 0 1 P
+ENDDRAW
+ENDDEF
+#
+# tactile_button_red
+#
+DEF tactile_button_red TB 0 40 N N 1 F N
+F0 "TB" -150 200 50 H V L CNN
+F1 "tactile_button_red" 0 -150 50 H V C CNN
+F2 "Galeguinho:tactile_button_red" 0 300 50 H I C CNN
+F3 "" 0 200 50 H I C CNN
+$FPLIST
+ tactile_button
+$ENDFPLIST
+DRAW
+C -80 0 20 0 1 0 N
+C 80 0 20 0 1 0 N
+S -150 150 150 -100 0 1 0 f
+P 2 0 1 0 0 50 0 120 N
+P 2 0 1 0 100 50 -100 50 N
+X 1 1 -200 0 100 R 50 50 0 1 P
+X 2 2 200 0 100 L 50 50 0 1 P
+ENDDRAW
+ENDDEF
+#
+#End Library

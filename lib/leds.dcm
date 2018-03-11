@@ -1,0 +1,23 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP led_3mm_blue
+D LED generic
+K led diode
+$ENDCMP
+#
+$CMP led_3mm_green
+D LED generic
+K led diode
+$ENDCMP
+#
+$CMP led_3mm_red
+D LED generic
+K led diode
+$ENDCMP
+#
+$CMP led_3mm_yellow
+D LED generic
+K led diode
+$ENDCMP
+#
+#End Doc Library

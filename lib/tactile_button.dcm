@@ -1,0 +1,28 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP tactile_button_black
+D Push button switch, generic, two pins
+K switch normally-open pushbutton push-button
+$ENDCMP
+#
+$CMP tactile_button_blue
+D Push button switch, generic, two pins
+K switch normally-open pushbutton push-button
+$ENDCMP
+#
+$CMP tactile_button_gray
+D Push button switch, generic, two pins
+K switch normally-open pushbutton push-button
+$ENDCMP
+#
+$CMP tactile_button_green
+D Push button switch, generic, two pins
+K switch normally-open pushbutton push-button
+$ENDCMP
+#
+$CMP tactile_button_red
+D Push button switch, generic, two pins
+K switch normally-open pushbutton push-button
+$ENDCMP
+#
+#End Doc Library
